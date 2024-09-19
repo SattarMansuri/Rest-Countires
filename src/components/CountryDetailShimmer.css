@@ -1,0 +1,19 @@
+.shimmer-flag{
+  width: 40%;
+  background-color: #d5d5d587;
+  height: 350px;
+}
+
+.shimmer-country-name{
+ background-color: #d5d5d587;
+  height: 35px;
+  width: 30vw;
+  margin-bottom: 3vh;
+  margin-top: 0;
+}
+
+.shimmer{
+ background-color: #d5d5d587;
+  height: 25px;
+  width: 20vw;
+}
